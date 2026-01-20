@@ -13,7 +13,7 @@
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=instrument-sans:400,500,600" rel="stylesheet" />
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <!-- Tailwind CSS -->
         <script src="https://cdn.tailwindcss.com"></script>
     </head>
@@ -43,7 +43,7 @@
         <section id="home" class="min-h-screen flex items-center justify-center bg-gradient-to-br from-slate-50 dark:from-slate-800 to-blue-50 dark:to-slate-900 px-4">
             <div class="max-w-4xl mx-auto text-center">
                 <div class="mb-8 animate-bounce">
-                    <div class="w-32 h-32 mx-auto rounded-full bg-gradient-to-br from-blue-400 to-purple-600 flex items-center justify-center text-white text-5xl font-bold">JD</div>
+                    <div class="w-32 h-32 mx-auto rounded-full bg-gradient-to-br from-blue-400 to-purple-600 flex items-center justify-center text-white text-5xl font-bold">MK</div>
                 </div>
                 <h2 class="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">
                     PHP Backend Engineer & Full-Stack Developer
@@ -82,10 +82,12 @@
                             I'm eager to contribute to innovative, data-driven projects where I can leverage my technical skills and problem-solving abilities to create impactful solutions.
                         </p>
                         <div class="flex gap-4">
-                            <a href="#" class="text-2xl hover:text-blue-600">📘</a>
-                            <a href="#" class="text-2xl hover:text-blue-600">🐦</a>
-                            <a href="#" class="text-2xl hover:text-blue-600">💼</a>
-                            <a href="#" class="text-2xl hover:text-blue-600">🔗</a>
+                            <!-- <a href="#" class="text-2xl hover:text-blue-600">📘</a> -->
+                             <i class="fa fa-linkedin-square" style="font-size:24px;color:"></i>
+                            <a href="#" class="fa fa-facebook-square" style="font-size:24px;color:"></a>
+                            <a href="#" class="fa fa-github-square" style="font-size:24px;color:"></a>
+                            <!-- <a href="#" class="text-2xl hover:text-blue-600">💼</a>
+                            <a href="#" class="text-2xl hover:text-blue-600">🔗</a> -->
                         </div>
                     </div>
                 </div>
@@ -242,19 +244,19 @@
                             <div class="flex items-center justify-between">
                                 <span>JavaScript</span>
                                 <div class="w-24 bg-gray-300 dark:bg-gray-600 rounded-full h-2">
-                                    <div class="bg-blue-600 h-2 rounded-full" style="width: 85%"></div>
+                                    <div class="bg-blue-600 h-2 rounded-full" style="width: 60%"></div>
                                 </div>
                             </div>
                             <div class="flex items-center justify-between">
                                 <span>HTML5 & CSS3</span>
                                 <div class="w-24 bg-gray-300 dark:bg-gray-600 rounded-full h-2">
-                                    <div class="bg-blue-600 h-2 rounded-full" style="width: 90%"></div>
+                                    <div class="bg-blue-600 h-2 rounded-full" style="width: 60%"></div>
                                 </div>
                             </div>
                             <div class="flex items-center justify-between">
                                 <span>Bootstrap</span>
                                 <div class="w-24 bg-gray-300 dark:bg-gray-600 rounded-full h-2">
-                                    <div class="bg-blue-600 h-2 rounded-full" style="width: 88%"></div>
+                                    <div class="bg-blue-600 h-2 rounded-full" style="width: 50%"></div>
                                 </div>
                             </div>
                         </div>
@@ -296,7 +298,7 @@
                             <div class="flex items-center justify-between">
                                 <span>Docker</span>
                                 <div class="w-24 bg-gray-300 dark:bg-gray-600 rounded-full h-2">
-                                    <div class="bg-pink-600 h-2 rounded-full" style="width: 88%"></div>
+                                    <div class="bg-pink-600 h-2 rounded-full" style="width: 70%"></div>
                                 </div>
                             </div>
                             <div class="flex items-center justify-between">
@@ -308,47 +310,19 @@
                             <div class="flex items-center justify-between">
                                 <span>Linux (Ubuntu)</span>
                                 <div class="w-24 bg-gray-300 dark:bg-gray-600 rounded-full h-2">
-                                    <div class="bg-pink-600 h-2 rounded-full" style="width: 85%"></div>
+                                    <div class="bg-pink-600 h-2 rounded-full" style="width: 95%"></div>
                                 </div>
                             </div>
                             <div class="flex items-center justify-between">
                                 <span>Jenkins & Jira</span>
                                 <div class="w-24 bg-gray-300 dark:bg-gray-600 rounded-full h-2">
-                                    <div class="bg-pink-600 h-2 rounded-full" style="width: 82%"></div>
+                                    <div class="bg-pink-600 h-2 rounded-full" style="width: 90%"></div>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="bg-gradient-to-br from-pink-50 dark:from-slate-700 to-pink-100 dark:to-slate-600 rounded-lg p-8">
-                        <h3 class="text-2xl font-bold mb-6 text-pink-600">Tools & DevOps</h3>
-                        <div class="space-y-3">
-                            <div class="flex items-center justify-between">
-                                <span>Docker</span>
-                                <div class="w-24 bg-gray-300 dark:bg-gray-600 rounded-full h-2">
-                                    <div class="bg-pink-600 h-2 rounded-full" style="width: 88%"></div>
-                                </div>
-                            </div>
-                            <div class="flex items-center justify-between">
-                                <span>Git/GitHub</span>
-                                <div class="w-24 bg-gray-300 dark:bg-gray-600 rounded-full h-2">
-                                    <div class="bg-pink-600 h-2 rounded-full" style="width: 95%"></div>
-                                </div>
-                            </div>
-                            <div class="flex items-center justify-between">
-                                <span>Linux (Ubuntu)</span>
-                                <div class="w-24 bg-gray-300 dark:bg-gray-600 rounded-full h-2">
-                                    <div class="bg-pink-600 h-2 rounded-full" style="width: 85%"></div>
-                                </div>
-                            </div>
-                            <div class="flex items-center justify-between">
-                                <span>Jenkins & Jira</span>
-                                <div class="w-24 bg-gray-300 dark:bg-gray-600 rounded-full h-2">
-                                    <div class="bg-pink-600 h-2 rounded-full" style="width: 82%"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </section>
@@ -356,7 +330,7 @@
         <!-- Reviews Section -->
         <section id="reviews" class="py-20 px-4 bg-gradient-to-br from-slate-50 dark:from-slate-900 to-blue-50 dark:to-slate-800">
             <div class="max-w-7xl mx-auto">
-                <h2 class="text-4xl font-bold mb-12 text-center">Client Reviews</h2>
+                <h2 class="text-4xl font-bold mb-12 text-center">Freelance Client Reviews</h2>
                 <div class="relative">
                     <!-- Scroll Container -->
                     <div id="reviewsScroll" class="overflow-x-hidden pb-4 px-4 -mx-4 scroll-smooth">
@@ -367,13 +341,13 @@
                             <span class="text-yellow-400">⭐⭐⭐⭐⭐</span>
                         </div>
                         <p class="text-gray-600 dark:text-gray-300 mb-6">
-                            "John delivered an exceptional website for our startup. His attention to detail and understanding of modern design trends were outstanding. Highly recommended!"
+                            "Great worker and responds timely will use services again"
                         </p>
                         <div class="flex items-center gap-4">
                             <img src="https://via.placeholder.com/48x48/6366f1/ffffff?text=AB" alt="Client" class="w-12 h-12 rounded-full">
                             <div>
-                                <p class="font-bold">Alice Brown</p>
-                                <p class="text-sm text-gray-500 dark:text-gray-400">CEO, Tech Startup Inc</p>
+                                <p class="font-bold">freyyyyyyy's</p>
+                                <!-- <p class="text-sm text-gray-500 dark:text-gray-400">CEO, Tech Startup Inc</p> -->
                             </div>
                         </div>
                     </div>
@@ -384,13 +358,13 @@
                             <span class="text-yellow-400">⭐⭐⭐⭐⭐</span>
                         </div>
                         <p class="text-gray-600 dark:text-gray-300 mb-6">
-                            "Professional, reliable, and incredibly talented. John transformed our vision into a stunning reality. Our conversion rate increased by 40% after the redesign!"
+                            "Great worker and good price thank you so!"
                         </p>
                         <div class="flex items-center gap-4">
                             <img src="https://via.placeholder.com/48x48/8b5cf6/ffffff?text=MC" alt="Client" class="w-12 h-12 rounded-full">
                             <div>
-                                <p class="font-bold">Michael Chen</p>
-                                <p class="text-sm text-gray-500 dark:text-gray-400">Marketing Director, E-Commerce Co</p>
+                                <p class="font-bold">freyyyyyyy's</p>
+                                <!-- <p class="text-sm text-gray-500 dark:text-gray-400">Marketing Director, E-Commerce Co</p> -->
                             </div>
                         </div>
                     </div>
