@@ -467,21 +467,21 @@
                                 <div class="text-3xl">📧</div>
                                 <div>
                                     <p class="font-semibold">Email</p>
-                                    <p class="text-gray-600 dark:text-gray-400">john.dev@example.com</p>
+                                    <p class="text-gray-600 dark:text-gray-400">mue**n@outlook.com</p>
                                 </div>
                             </div>
                             <div class="flex gap-4">
                                 <div class="text-3xl">📱</div>
                                 <div>
                                     <p class="font-semibold">Phone</p>
-                                    <p class="text-gray-600 dark:text-gray-400">+1 (555) 123-4567</p>
+                                    <p class="text-gray-600 dark:text-gray-400">+ 49 176 88***&99 </p>
                                 </div>
                             </div>
                             <div class="flex gap-4">
                                 <div class="text-3xl">📍</div>
                                 <div>
                                     <p class="font-semibold">Location</p>
-                                    <p class="text-gray-600 dark:text-gray-400">San Francisco, CA</p>
+                                    <p class="text-gray-600 dark:text-gray-400">Berlin, Germany</p>
                                 </div>
                             </div>
                             <div class="flex gap-4">
